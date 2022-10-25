@@ -1,0 +1,1 @@
+curl -o - https://raw.githubusercontent.com/bllendev/steamdeck_startup_animations/main/install.sh | bash -
